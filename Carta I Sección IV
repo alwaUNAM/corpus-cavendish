@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:rng="http://relaxng.org/ns/structure/1.0"
+   xml:lang="es"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="validation/document.xsd">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carta I; Sección IV</title>
+        <author>Margaret Cavendish</author>
+        <translator>Maria Azuela</translator>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Oxford Academic</publisher>
+        <date>2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>no data</p>
+      </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+  <title>Carta I; Sección IV</title>
+  <h2>Cartas filosóficas</h2>
+  <body>
+    <p>Usted,<addName>Madam</addName> se complace en desear mi opinión sobre un argumento muy difícil e intrincado en <term ana="filosofica">Filosofía Natural</term>, a saber, de <term ana="filosofica">Generación</term> o <term ana="filsofica">Producción Natural</term>. Debo pedir permiso para decirles, primero, que <span ana="social" type="Cavendish"> algunos (aunque tontamente) creen que <span ana="social" type="popular">no es adecuado que las <term ana="social">Mujeres</term> discutan sobre un <term ana="social">Misterio</term> tan sutil</span></span>.</p>
+  </body>
+</text>
