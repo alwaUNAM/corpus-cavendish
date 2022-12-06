@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:rng="http://relaxng.org/ns/structure/1.0"
+   xml:lang="es"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="validation/document.xsd">
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Carta VIII; Sección II</title>
+        <author>Margaret Cavendish</author>
+        <translator>Maria Azuela</translator>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Oxford Academic</publisher>
+        <date>2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>no data</p>
+      </sourceDesc>
+    </fileDesc>
+</teiHeader>
+<text>
+  <title>Carta VIII; Sección II></title>
+  <h2>Cartas Filosoficas </h2>
+  <body>
+    <p>Su Autor se complace en decir que la<span ana="filosofica" type="More"><term ana="filosofica">Materia</term> es un <term ana="filosofica">Principio</term> puramente pasivo, y que no se mueve ni modifica de otro modo, entonces alguna otra cosa la mueve o la modifica, pero no puede moverse por sí misma en absoluto; lo cual es más demostrable para aquellos que luchan por el <term ana="filosofica">sentido</term> y la <term ana="filosofica">percepción</term> en ella: Porque si tuviera tal <term ana="filosofica">percepción</term>, en virtud de su propio <term ana="filosofica">movimiento</term> se retiraría de debajo de los golpes de los martillos, o la furia del fuego, o se acercaría por su propia cuenta a las cosas más agradables…</span></p>
+    <p>Con su permiso, <addName>Madam</addName>, debo decirle que <span ana="filosofica" type="Cavendish">no veo ninguna consecuencia en este <term ana="filosofica">argumento</term>; Debido a que algunas partes de la <term ana="filosofica">materia</term> no pueden sustraerse a la fuerza y el poder de otras partes, no tienen <term ana="filosofica">sentido</term>, <term ana="filosofica">razón</term> ni <term ana="filosofica">percepción</term></span>: Porque, dicho el caso, un <term ana="filosofica">hombre</term> debería ser dominado por otros <term ana="filosofica">hombres</term>, y se vería obligado a sufrir, y ningún <term ana="filosofica">Espíritu Inmaterial</term>, creo, lo ayudaría.</p>
+    <p>Lo mismo puede decirse de otras <term ana="filosofica">Criaturas</term> o partes de la <term ana="filsofica">Naturaleza</term>; porque algunos pueden vencer a otros, como el fuego, el martillo y la mano vencen a una herradura, que no puede prevalecer sobre tanta fuerza y poder; Y lo mismo ocurre con la enfermedad y la salud, la <term ana="filosofica">vida</term> y la <term ana="filosofica">muerte</term>; por ejemplo, algunos <term ana="filosofica">movimientos</term> en el <term ana="filosofica">cuerpo</term> volviéndose Rebeldes, al moverse en contra de la salud de una <term ana="filosofica">Criatura animal</term>, esta debe enfermarse; <span ana="filosofica" type="Cavendish">porque no toda <term ana="filosofica">criatura</term> particular tiene un poder absoluto, siendo el poder en el todo <term ana="filosofica">infinito</term>, y no en partes individuales divididas</span>.</p>
+  </body>
+</text>
