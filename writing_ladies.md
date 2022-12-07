@@ -1,0 +1,54 @@
+---
+layout: post
+title: A todas las damas escritoras
+---
+```xml
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A todas las damas escritoras</title>
+        <author>Margaret Cavendish</author>
+        <translator>Maria Azuela</translator>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Oxford Academic</publisher>
+        <date>2019</date>
+      </publicationStmt>
+      <sourceDesc>
+        <p>no data</p>
+      </sourceDesc>
+    </fileDesc>
+</teiHeader>
+```
+`<text>`
+# `<title>`A todas las damas escritoras`</title>`
+## `<h2>`Poemas y fantasías`</h2>`
+  `<body>`
+    `<p>`Debe observarse que hay una operación secreta de la `<term ana="filosofica">` Naturaleza`</term>`, como para ejercer una influencia sobre las `<term ana="filosofica">`mentes`</term>` de los `<term ana="filsofica">`hombres`</term>`: como en los Contagios, cuando el Aire se corrompe, produce varias Enfermedades; así varios trastornos de la `<term ana="filosofica">`mente`</term>`, por las inflamaciones de los `<term ana="filosofica">`espíritus</term>.`</p>`
+    <br><br>
+    `<p>`Y así como en las `<term ana="social">`Eras`</term>` saludables se purifican los `<term ana="filsofica">`cuerpos`</term>`, se afinan los ingenios; sin embargo, me parece como si hubiera varios `<term ana="filosofica">`espíritus`</term>` invisibles, que tienen varios poderes, pero visibles, para obrar en varias `<term ana="social">`Eras`</term>` sobre las `<term ana="filsofica">`mentes`</term>` de los `<term ana="filsofica">`hombres`</term>`.`</p>`
+    <br><br>
+    `<p>`Porque en muchas` <term ana="social">`Eras`</term>` los `<term ana="filsofica">`hombres`</term>` serán afectados y desanimados por igual: como en algunas `<term ana="social">`Eras`</term>` tan fuertemente y supersticiosamente devotas, que hacen muchos dioses; y en otra `<term ana="social">`Era`</term>` tan atea, que no creen en `<term ana="filsofica">`Dios`</term>` en absoluto, y viven a esos` <term ana="filsofica">`Principios`</term>`. Algunas `<term ana="social">`Eras`</term>` tienen de nuevo creencias tan fuertes, que no sólo morirán en sus diversas `<term ana="filsofica">`Opiniones`</term>`, sino que se Masacrarán y se degollarán unos a otros, porque sus `<term ana="filsofica">`opiniones`</term>` son diferentes.`</p>`
+    <br><br>
+    `<p>`En algunas `<term ana="social">`Eras`</term>` todos los `<term ana="filsofica">`hombres`</term>` buscan el poder absoluto, y cada hombre sería `<term ana="social">`Emperador`</term>` del Mundo; que hace las `<term ana="social">`Guerras`</term>` Civiles: porque su `<term ana="social">`ambición`</term>` los inquieta, y su inquietud los hace buscar el cambio. Luego, en otra `<term ana="social">`Era`</term>`, todos viven en paz, y tan obedientes, que los mismos `<term ana="social">`Gobernadores`</term>` gobiernan con poder obediente.`</p>`
+    <br><br>
+    <p>De nuevo en algunas <term ana="social">Eras</term>, todos corren tras la <term ana="social">imitación</term>, como monos, para imitar a tal <term ana="social">poeta</term>, para ser tal la <term ana="filsofica">opinión</term> de los <term ana="social">filósofos</term>.</p>
+    <p>Algunas <term ana="social">Eras</term> se mezclan, como <term ana="social">Moralistas</term>, <term ana="social">Poetas</term>, <term ana="social">Filósofos</term>, y similares: y en algunas <term ana="social">Eras</term> ajen, todas afectan la singularidad; y se cree que son los más <term ana="filsofica">sabios</term> los que pueden tener las <term ana="filsofica">opiniones</term> más extravagantes.</p>
+    <p>En algunas <term ana="social">Eras</term>, el <term ana="filosofica">arendizaje</term> florece en las artes y las ciencias; otras tan aburridas, ya que pierden lo que las <term ana="social">Eras</term> anteriores habían enseñado.</p>
+    <p>Y en algunas <term ana="social">Eras</term> parece como si hubiera una mancomunidad de esos <term ana="filosofica">espíritus</term> gobernantes, donde la mayoría gobierna al mismo tiempo. Algunas <term ana="social">Eras</term>, como en la <term ana="social">Aristocracia</term>, cuando alguna parte gobernó; y otras <term ana="social">Eras</term>, <term ana="social">Monarquía</term> pura, cuando uno solo gobierna; y en algunas parece como si todos esos <term ana="filosofica">espíritus</term> estuvieran en desafío, quién debería tener más poder, lo que los pone en confusión y <term ana="social">Guerra</term>; algunas son tan confusas, que parece hay <term ana="filosofica">espíritus</term> del <term ana="filsofica">Género</term> <term ana="social">Femenino</term> y también del <term ana="social">Masculino</term>.</p>
+    <p>Habrá muchas <term ana="social">Mujeres Heróicas</term> en unas <term ana="social">Eras</term>, en otras muy <term ana="social"> Proféticas</term>; en algunas <term ana="social">Eras</term> muy piadosas y devotas: porque nuestro <term ana="filsofica">sexo</term> es maravillosamente adicto a los <term ana="filsofica">espíritus</term>.</p>
+    <p><span ana="social" type="Cavendish">Pero esta <term ana="social">Era</term> ha producido muchas <term ana="social">Escritoras</term>, así como <term ana="social">Predicadoras</term>, y muchas <term ana="social">Gobernantes</term>, así como <term ana="social">Actrices</term>. Y si es una <term ana="social">Era</term> en que gobiernan los <term ana="filsofica">espíritus</term> <term ana="social">femeninos</term>, como más visiblemente lo hacen en todos los <term ana="social">Reinos</term>, aprovechemos y aprovechemos al máximo nuestro tiempo, por temor a que su reinado no dure mucho</span>; ya sea en el <term ana="social">Gobierno Amazónico</term>, o en la <term ana="filsofica">Política</term> del <term ana="social">Estado</term> Libre Asociado, o en la <term ana="social">Monarquía</term> floreciente, o en las <term ana="social">Escuelas</term> de Teología, o en las Lecciones de <term ana="filsofica">Filosofía</term>, o en la <term ana="filsofica">Poesía</term> ingeniosa, o en cualquier cosa que honre a nuestro <term ana="filsofica">Sexo</term>: porque son <term ana="filsofica">espíritus</term> pobres, abatidos, que no son ambiciosos de <term ana="social">Fama</term>.</p>
+    <p><span ana="social" type="Cavdendish">Y aunque seamos inferiores a los <term ana="filsofica">Hombres</term>, mostrémonos un grado por encima de las <term ana="filsofica">Bestias</term>; y no debemos comer, beber y dormir nuestro tiempo como lo hacen estas; ni vivamos sólo para el <term ana="filsofica">sentido</term>, y no para la <term ana="filsofica">razón</term>; así nos convertiremos en polvo olvidado</span>.</p>
+    <p>Pero esforcémonos por construirnos Tumbas mientras vivamos, de Nobles, Honrosas, y buenas Acciones, por lo menos inofensivas;</p>
+    <p>Que aunque mueran nuestros <term ana="filsofica">Cuerpos</term></p>
+    <p>Nuestros Nombres pueden vivir después de la</p>
+    <p><term ana="filsofica">memoria</term></p>
+    <br>
+    <p>Me pregunto si alguno se reiría o pensaría que <span ana="filsofica" type="Cavendish">es ridículo hablar de <term ana="social">Hadas</term> y, sin embargo, creer que hay <term ana="filsofica">espíritus</term></span>: <term ana="filsofica">espíritus</term> que no pueden tener descripción, porque no tienen dimensión: Y de las <term ana="social">Brujas</term>, de las que se dice que se transforman en varias formas, y regresan a su primera forma de nuevo, lo cual es contra la <term ana="filsofica">naturaleza</term>: sin embargo, se ríen del informe de las <term ana="social">Hadas</term>, como imposible; que son solo pequeños <term ana="filsofica">cuerpos</term>, no sujetos de nuestros <term ana="filsofica">sentidos</term>, pero sí de nuestra <term ana="filsofica">razón</term>.</p>
+    <p>Pues la <term ana="filsofica">Naturaleza</term> puede hacer cuerpos pequeños y grandes, cuerpos delgados y gruesos.</p>
+    <p>Bien podemos pensar que no hay Aire, porque no lo vemos; o pensar que no hay Aire en un Barril vacío, o cosas por el estilo, porque cuando metemos las manos y los brazos en el mismo, no lo sentimos.</p>
+    <p>¿Y por qué no habrían de atravesar puertas o paredes, como lo hace Aire, si sus <term ana="filosofica">cuerpos</term> son tan delgados? Y <span ana="filsofica" type="Cavendish">si podemos conceder que puede haber una <term ana="filosofica">sustancia</term>, aunque no sujeta a nuestro <term ana="filosofica">sentido</term>, entonces debemos conceder que esa <term ana="filosofica">sustancia</term> debe tener alguna <term ana="filosofica">forma</term></span>; ¿Y por qué no del <term ana="filosofica">hombre</term>, como de cualquier otra cosa? ¿Y por qué las <term ana="filosofica">almas racionales</term> no viven en un <term ana="filosofica">cuerpo</term> pequeño, tanto como en un grueso, y en uno delgado, como en un grueso?</p>
+
+  </body>
+</text>
+</TEI>
