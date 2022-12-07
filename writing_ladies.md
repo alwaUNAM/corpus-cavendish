@@ -44,18 +44,23 @@ title: A todas las damas escritoras
     <br><br>
     `<p>``<span ana="social" type="Cavendish">`Pero esta `<term ana="social">`Era`</term>` ha producido muchas `<term ana="social">`Escritoras`</term>`, así como `<term ana="social">`Predicadoras`</term>`, y muchas `<term ana="social">`Gobernantes`</term>`, así como `<term ana="social">`Actrices`</term>`. Y si es una `<term ana="social">`Era`</term>` en que gobiernan los `<term ana="filsofica">`espíritus`</term>` `<term ana="social">`femeninos`</term>`, como más visiblemente lo hacen en todos los `<term ana="social">`Reinos`</term>`, aprovechemos y aprovechemos al máximo nuestro tiempo, por temor a que su reinado no dure mucho`</span>`; ya sea en el `<term ana="social">`Gobierno Amazónico`</term>`, o en la `<term ana="filsofica">`Política`</term>` del `<term ana="social">`Estado`</term>` Libre Asociado, o en la `<term ana="social">`Monarquía`</term>` floreciente, o en las `<term ana="social">`Escuelas`</term>` de Teología, o en las Lecciones de `<term ana="filsofica">`Filosofía`</term>`, o en la `<term ana="filsofica">`Poesía`</term>` ingeniosa, o en cualquier cosa que honre a nuestro `<term ana="filsofica">`Sexo`</term>`: porque son `<term ana="filsofica">`espíritus`</term>` pobres, abatidos, que no son ambiciosos de `<term ana="social">`Fama`</term>`.`</p>`
     <br><br>
-    <p><span ana="social" type="Cavdendish">Y aunque seamos inferiores a los <term ana="filsofica">Hombres</term>, mostrémonos un grado por encima de las <term ana="filsofica">Bestias</term>; y no debemos comer, beber y dormir nuestro tiempo como lo hacen estas; ni vivamos sólo para el <term ana="filsofica">sentido</term>, y no para la <term ana="filsofica">razón</term>; así nos convertiremos en polvo olvidado</span>.</p>
+    `<p>``<span ana="social" type="Cavdendish">`Y aunque seamos inferiores a los `<term ana="filsofica">`Hombres`</term>`, mostrémonos un grado por encima de las `<term ana="filsofica">`Bestias`</term>`; y no debemos comer, beber y dormir nuestro tiempo como lo hacen estas; ni vivamos sólo para el `<term ana="filsofica">`sentido`</term>`, y no para la `<term ana="filsofica">`razón`</term>`; así nos convertiremos en polvo olvidado`</span>`.`</p>`
     <br><br>
-    <p>Pero esforcémonos por construirnos Tumbas mientras vivamos, de Nobles, Honrosas, y buenas Acciones, por lo menos inofensivas;</p>
-    <p>Que aunque mueran nuestros <term ana="filsofica">Cuerpos</term></p>
-    <p>Nuestros Nombres pueden vivir después de la</p>
-    <p><term ana="filsofica">memoria</term></p>
+    `<p>`Pero esforcémonos por construirnos Tumbas mientras vivamos, de Nobles, Honrosas, y buenas Acciones, por lo menos inofensivas;`</p>`<br>
+    `<p>`*Que aunque mueran nuestros* `<term ana="filsofica">`*Cuerpos*`</term>``</p>`<br>
+    `<p>`*Nuestros Nombres pueden vivir después de la*`</p>`
+    `<p>``<term ana="filsofica">`*memoria*`</term>``</p>`
     <br>
-    <p>Me pregunto si alguno se reiría o pensaría que <span ana="filsofica" type="Cavendish">es ridículo hablar de <term ana="social">Hadas</term> y, sin embargo, creer que hay <term ana="filsofica">espíritus</term></span>: <term ana="filsofica">espíritus</term> que no pueden tener descripción, porque no tienen dimensión: Y de las <term ana="social">Brujas</term>, de las que se dice que se transforman en varias formas, y regresan a su primera forma de nuevo, lo cual es contra la <term ana="filsofica">naturaleza</term>: sin embargo, se ríen del informe de las <term ana="social">Hadas</term>, como imposible; que son solo pequeños <term ana="filsofica">cuerpos</term>, no sujetos de nuestros <term ana="filsofica">sentidos</term>, pero sí de nuestra <term ana="filsofica">razón</term>.</p>
-    <p>Pues la <term ana="filsofica">Naturaleza</term> puede hacer cuerpos pequeños y grandes, cuerpos delgados y gruesos.</p>
-    <p>Bien podemos pensar que no hay Aire, porque no lo vemos; o pensar que no hay Aire en un Barril vacío, o cosas por el estilo, porque cuando metemos las manos y los brazos en el mismo, no lo sentimos.</p>
-    <p>¿Y por qué no habrían de atravesar puertas o paredes, como lo hace Aire, si sus <term ana="filosofica">cuerpos</term> son tan delgados? Y <span ana="filsofica" type="Cavendish">si podemos conceder que puede haber una <term ana="filosofica">sustancia</term>, aunque no sujeta a nuestro <term ana="filosofica">sentido</term>, entonces debemos conceder que esa <term ana="filosofica">sustancia</term> debe tener alguna <term ana="filosofica">forma</term></span>; ¿Y por qué no del <term ana="filosofica">hombre</term>, como de cualquier otra cosa? ¿Y por qué las <term ana="filosofica">almas racionales</term> no viven en un <term ana="filosofica">cuerpo</term> pequeño, tanto como en un grueso, y en uno delgado, como en un grueso?</p>
+    `<p>`Me pregunto si alguno se reiría o pensaría que `<span ana="filsofica" type="Cavendish">`es ridículo hablar de `<term ana="social">`Hadas`</term>` y, sin embargo, creer que hay `<term ana="filsofica">`espíritus`</term></span>`: `<term ana="filsofica">`espíritus`</term>` que no pueden tener descripción, porque no tienen dimensión: Y de las `<term ana="social">`Brujas`</term>`, de las que se dice que se transforman en varias formas, y regresan a su primera forma de nuevo, lo cual es contra la `<term ana="filsofica">`naturaleza`</term>`: sin embargo, se ríen del informe de las `<term ana="social">`Hadas`</term>`, como imposible; que son solo pequeños `<term ana="filsofica">`cuerpos`</term>`, no sujetos de nuestros `<term ana="filsofica">`sentidos`</term>`, pero sí de nuestra `<term ana="filsofica">`razó`n</term>`.`</p>`
+    <br><br>
+    `<p>`Pues la `<term ana="filsofica">`Naturaleza`</term>` puede hacer cuerpos pequeños y grandes, cuerpos delgados y gruesos.`</p>`
+    <br><br>
+    `<p>`Bien podemos pensar que no hay Aire, porque no lo vemos; o pensar que no hay Aire en un Barril vacío, o cosas por el estilo, porque cuando metemos las manos y los brazos en el mismo, no lo sentimos.`</p>`
+    <br><br>
+    `<p>`¿Y por qué no habrían de atravesar puertas o paredes, como lo hace Aire, si sus `<term ana="filosofica">`cuerpos`</term>` son tan delgados? Y `<span ana="filsofica" type="Cavendish">`si podemos conceder que puede haber una `<term ana="filosofica">`sustancia`</term>`, aunque no sujeta a nuestro `<term ana="filosofica">`sentido`</term>`, entonces debemos conceder que esa `<term ana="filosofica">`sustancia`</term>` debe tener alguna `<term ana="filosofica">`forma`</term></span>`; ¿Y por qué no del `<term ana="filosofica">`hombre`</term>`, como de cualquier otra cosa? ¿Y por qué las `<term ana="filosofica">`almas racionales`</term>` no viven en un `<term ana="filosofica">`cuerpo`</term>` pequeño, tanto como en un grueso, y en uno delgado, como en un grueso?`</p>`
 
-  </body>
-</text>
+  `</body>`<br>
+`</text>`<br>
+```xml
 </TEI>
+```
