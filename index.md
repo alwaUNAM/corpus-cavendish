@@ -20,7 +20,6 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 
 ## "A todas las damas Escritoras" en *Poemas y Fantasías*
 
-<p>
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
    xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -72,7 +71,6 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
   </body>
 </text>
 </TEI>
-</p>
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
 
