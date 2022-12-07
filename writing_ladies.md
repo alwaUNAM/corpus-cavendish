@@ -47,9 +47,9 @@ title: A todas las damas escritoras
     `<p>``<span ana="social" type="Cavdendish">`Y aunque seamos inferiores a los `<term ana="filsofica">`Hombres`</term>`, mostrémonos un grado por encima de las `<term ana="filsofica">`Bestias`</term>`; y no debemos comer, beber y dormir nuestro tiempo como lo hacen estas; ni vivamos sólo para el `<term ana="filsofica">`sentido`</term>`, y no para la `<term ana="filsofica">`razón`</term>`; así nos convertiremos en polvo olvidado`</span>`.`</p>`
     <br><br>
     `<p>`Pero esforcémonos por construirnos Tumbas mientras vivamos, de Nobles, Honrosas, y buenas Acciones, por lo menos inofensivas;`</p>`<br>
-    `<p>`*Que aunque mueran nuestros* `<term ana="filsofica">`*Cuerpos*`</term>``</p>`<br>
+    `<p>`*Que aunque mueran nuestros* `<term ana="filsofica">`*Cuerpos*`</term></p>`<br>
     `<p>`*Nuestros Nombres pueden vivir después de la*`</p>`
-    `<p>``<term ana="filsofica">`*memoria*`</term>``</p>`
+    `<p>``<term ana="filsofica">`*memoria*`</term></p>`
     <br><br>
     `<p>`Me pregunto si alguno se reiría o pensaría que `<span ana="filsofica" type="Cavendish">`es ridículo hablar de `<term ana="social">`Hadas`</term>` y, sin embargo, creer que hay `<term ana="filsofica">`espíritus`</term></span>`: `<term ana="filsofica">`espíritus`</term>` que no pueden tener descripción, porque no tienen dimensión: Y de las `<term ana="social">`Brujas`</term>`, de las que se dice que se transforman en varias formas, y regresan a su primera forma de nuevo, lo cual es contra la `<term ana="filsofica">`naturaleza`</term>`: sin embargo, se ríen del informe de las `<term ana="social">`Hadas`</term>`, como imposible; que son solo pequeños `<term ana="filsofica">`cuerpos`</term>`, no sujetos de nuestros `<term ana="filsofica">`sentidos`</term>`, pero sí de nuestra `<term ana="filsofica">`razó`n</term>`.`</p>`
     <br><br>
