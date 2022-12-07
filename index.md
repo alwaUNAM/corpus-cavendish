@@ -10,6 +10,8 @@ Margaret Cavendish fue una escritora y filósofa inglesa del siglo XVII. Dejó u
 
 Con este modesto *corpus* esperamos que el lector puedas darse una idea de Margaret Cavendish, una escritora y filósofa pionera, su particular situación social y contexto filosófico.
 
+![alt text](https://github.com/alwaUNAM/corpus-cavendish/blob/cc8a5327c49e5ea0833faab8df9919870d7da670/foto-cavendish.jpg "Retrato de Margaret Cavendish, 1665")
+
 ## Índice
 1. ["A todas las damas Escritoras";*To All Writing Ladies*](https://github.com/alwaUNAM/corpus-cavendish/blob/7901dd336ca2306938e146017903f4d43c39a686/A%20todas%20las%20damas%20escritoras) en Poemas y Fantasías
 2. ["Prefacio al lector"; *A Preface to the Reader*](https://github.com/alwaUNAM/corpus-cavendish/blob/7901dd336ca2306938e146017903f4d43c39a686/Prefacio%20al%20lector) de Cartas Filosóficas
