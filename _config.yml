@@ -2,9 +2,9 @@
 
 title: "Corpus Margaret Cavendish"
 author:
-  name: "María Azuela Mac Donald & Allen Wagley"
+  name: María Azuela Mac Donald & Allen Wagley
   email: "maria.azuela@comunidad.unam.mx ; allen.wagley@comunidad.unam.mx"
-description:  "Sitio web con algunas cartas de Margaret Cavendish codificadas con TEI"
+description:  Sitio web con algunas cartas de Margaret Cavendish codificadas con TEI
 
 # Build settings
 theme: minima
