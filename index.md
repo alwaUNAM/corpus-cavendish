@@ -78,7 +78,7 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 
 ## "Prefacio al lector" de *Cartas Filosóficas*
 
-~~~~~
+```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
    xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -112,13 +112,13 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
    </body>
 </text>
 </TEI>
-~~~~~
+```
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
 
 ## Carta IV, Sección I de *Cartas Filosóficas*
 
-~~~~~
+```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
 	xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -149,13 +149,13 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 </text>
 </body>
 </TEI>
-~~~~~
+```
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
 
 ## Carta XXX, Sección I de *Cartas Filosóficas*
 
-~~~~~
+```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
 	xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -184,13 +184,13 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
  </body>
 </text>
 </TEI>
-~~~~~
+```
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
 
 ## Carta VIII, Sección II de *Cartas Filosóficas*
 
-~~~~~
+```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
    xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -222,13 +222,13 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
     <p>Lo mismo puede decirse de otras <term ana="filosofica">Criaturas</term> o partes de la <term ana="filsofica">Naturaleza</term>; porque algunos pueden vencer a otros, como el fuego, el martillo y la mano vencen a una herradura, que no puede prevalecer sobre tanta fuerza y poder; Y lo mismo ocurre con la enfermedad y la salud, la <term ana="filosofica">vida</term> y la <term ana="filosofica">muerte</term>; por ejemplo, algunos <term ana="filosofica">movimientos</term> en el <term ana="filosofica">cuerpo</term> volviéndose Rebeldes, al moverse en contra de la salud de una <term ana="filosofica">Criatura animal</term>, esta debe enfermarse; <span ana="filosofica" type="Cavendish">porque no toda <term ana="filosofica">criatura</term> particular tiene un poder absoluto, siendo el poder en el todo <term ana="filosofica">infinito</term>, y no en partes individuales divididas</span>.</p>
   </body>
 </text>
-~~~~~
+```
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
 
 ## Carta I, Sección IV de *Cartas Filosóficas*
 
-~~~~~
+```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
    xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -258,13 +258,13 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
     <p>Usted,<addName>Madam</addName> se complace en desear mi opinión sobre un argumento muy difícil e intrincado en <term ana="filosofica">Filosofía Natural</term>, a saber, de <term ana="filosofica">Generación</term> o <term ana="filsofica">Producción Natural</term>. Debo pedir permiso para decirles, primero, que <span ana="social" type="Cavendish"> algunos (aunque tontamente) creen que <span ana="social" type="popular">no es adecuado que las <term ana="social">Mujeres</term> discutan sobre un <term ana="social">Misterio</term> tan sutil</span></span>.</p>
   </body>
 </text>
-~~~~~
+```
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
 
 ## Carta CCI de *Cartas Sociales*
 
-~~~~~
+```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
 	xmlns:rng="http://relaxng.org/ns/structure/1.0"
@@ -298,6 +298,6 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 </body>
 </text>
 </TEI>
-~~~~~
+```
 
 [Inicio](https://alwaunam.github.io/corpus-cavendish)
