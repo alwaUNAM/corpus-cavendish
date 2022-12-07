@@ -46,7 +46,7 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 
 `<text>`
 # `<title>`Prefacio al lector`</title>`
-### `<h2>`Cartas filosóficas`</h2>`
+### `<h2>`_Cartas filosóficas_`</h2>`
    `<body>`<br>
      `<p>`Deseo tanto favor, o mejor dicho, `<term ana="social">`Justicia`</term>` de vosotros, Dignos Lectores, que no interpretéis mis objeciones y respuestas de otra manera que contra varias opiniones en `<term ana="filosofica">`Filosofía`</term>`; porque estoy segura de que no hay nadie que estime, respete y honre a las Personas eruditas e ingeniosas más que yo: Por tanto, no me juzguéis de humor contradictorio, ni de mente vanagloriosa por disentir de las opiniones de otros hombres, sino más bien que lo hago por amor a la `<term ana="filosofica">`Verdad`</term>`, y para hacer mis propias opiniones más inteligibles, lo cual no puede hacerse mejor que argumentando y comparando las opiniones de otros hombres con las de ellas.`</p>`
      <br><br>
