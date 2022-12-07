@@ -22,7 +22,7 @@ title: A todas las damas escritoras
 ```
 `<text>`
 # `<title>`A todas las damas escritoras`</title>`
-## `<h2>`Poemas y fantasías`</h2>`
+### `<h2>`Poemas y fantasías`</h2>`
   `<body>`
     `<p>`Debe observarse que hay una operación secreta de la `<term ana="filosofica">` Naturaleza`</term>`, como para ejercer una influencia sobre las `<term ana="filosofica">`mentes`</term>` de los `<term ana="filsofica">`hombres`</term>`: como en los Contagios, cuando el Aire se corrompe, produce varias Enfermedades; así varios trastornos de la `<term ana="filosofica">`mente`</term>`, por las inflamaciones de los `<term ana="filosofica">`espíritus</term>.`</p>`
     <br><br>
