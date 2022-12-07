@@ -58,7 +58,7 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 ```xml
 </TEI>
 ```
-<details>
+</details>
 
 ## "A todas las damas Escritoras" en *Poemas y Fantasías*
 
