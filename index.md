@@ -9,8 +9,8 @@ Margaret Cavendish fue una escritora y filósofa inglesa del siglo XVII. Dejó u
 Con este modesto *corpus* esperamos que el lector puedas darse una idea de Margaret Cavendish, una escritora y filósofa pionera, su particular situación social y contexto filosófico.
 
 ## Índice
-1. ["A todas las damas Escritoras";*To All Writing Ladies*](https://alwaunam.github.io/corpus-cavendish/#a-todas-las-damas-escritoras) en Poemas y Fantasías
-2. ["Prefacio al lector"; *A Preface to the Reader*](https://github.com/alwaUNAM/corpus-cavendish/blob/7901dd336ca2306938e146017903f4d43c39a686/Prefacio%20al%20lector) de Cartas Filosóficas
+1. ["A todas las damas Escritoras";*To All Writing Ladies*](https://alwaunam.github.io/corpus-cavendish/#a-todas-las-damas-escritoras-en-poemas-y-fantasias) en Poemas y Fantasías
+2. ["Prefacio al lector"; *A Preface to the Reader*](https://alwaunam.github.io/corpus-cavendish/#prefacio-al-lector-de-cartas-filosoficas) de Cartas Filosóficas
 3. ["Carta IV; Sección I";](https://github.com/alwaUNAM/corpus-cavendish/blob/7901dd336ca2306938e146017903f4d43c39a686/Carta%204,%20Seccion%201,%20Cartas%20filosoficas.xml) de Cartas Filosóficas
 4. ["Carta XXX; Sección I";](https://github.com/alwaUNAM/corpus-cavendish/blob/7901dd336ca2306938e146017903f4d43c39a686/Carta%2030,%20Seccion%20I,%20Cartas%20filosoficas.xml) de Cartas Filosóficas
 5. ["Carta VIII; Sección II";](https://github.com/alwaUNAM/corpus-cavendish/blob/7901dd336ca2306938e146017903f4d43c39a686/Secci%C3%B3n%20II%20Carta%20VIII) de Cartas Filosóficas
