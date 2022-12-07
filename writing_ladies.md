@@ -50,7 +50,7 @@ title: A todas las damas escritoras
     `<p>`*Que aunque mueran nuestros* `<term ana="filsofica">`*Cuerpos*`</term>``</p>`<br>
     `<p>`*Nuestros Nombres pueden vivir después de la*`</p>`
     `<p>``<term ana="filsofica">`*memoria*`</term>``</p>`
-    <br>
+    <br><br>
     `<p>`Me pregunto si alguno se reiría o pensaría que `<span ana="filsofica" type="Cavendish">`es ridículo hablar de `<term ana="social">`Hadas`</term>` y, sin embargo, creer que hay `<term ana="filsofica">`espíritus`</term></span>`: `<term ana="filsofica">`espíritus`</term>` que no pueden tener descripción, porque no tienen dimensión: Y de las `<term ana="social">`Brujas`</term>`, de las que se dice que se transforman en varias formas, y regresan a su primera forma de nuevo, lo cual es contra la `<term ana="filsofica">`naturaleza`</term>`: sin embargo, se ríen del informe de las `<term ana="social">`Hadas`</term>`, como imposible; que son solo pequeños `<term ana="filsofica">`cuerpos`</term>`, no sujetos de nuestros `<term ana="filsofica">`sentidos`</term>`, pero sí de nuestra `<term ana="filsofica">`razó`n</term>`.`</p>`
     <br><br>
     `<p>`Pues la `<term ana="filsofica">`Naturaleza`</term>` puede hacer cuerpos pequeños y grandes, cuerpos delgados y gruesos.`</p>`
