@@ -18,7 +18,7 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 7. ["Carta CCI";](https://github.com/alwaUNAM/corpus-cavendish/blob/3f932e4981974b3bdf980aade28ba777157aa08b/Carta%20201,%20Cartas%20sociables.md) de Cartas Sociales
 
 
-## A todas las damas Escritoras
+## "A todas las damas Escritoras" en *Poemas y Fantasías*
 
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
@@ -71,3 +71,29 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
   </body>
 </text>
 </TEI>
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
+
+## "Prefacio al lector" de *Cartas Filosóficas*
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
+
+## Carta IV, Sección I de *Cartas Filosóficas*
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
+
+## Carta XXX, Sección I de *Cartas Filosóficas*
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
+
+## Carta VIII, Sección II de *Cartas Filosóficas*
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
+
+## Carta I, Sección IV de *Cartas Filosóficas*
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
+
+## Carta CCI de *Cartas Sociales*
+
+[Inicio](https://alwaunam.github.io/corpus-cavendish)
