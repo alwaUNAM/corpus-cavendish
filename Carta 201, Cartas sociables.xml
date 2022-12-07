@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:rng="http://relaxng.org/ns/structure/1.0"
+	xml:lang="es"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="validation/document.xsd">
+<teiHeader>
+    <fileDesc>
+	 	<titleStmt>
+			<title>Cartas sociables: Carta 201</title>
+	   		<author>Margaret Cavendish</author>
+			<translator>Allen Wagley</translator>
+		</titleStmt>
+	   	<publicationStmt>
+	    		<publisher>William Wilson</publisher>
+			<pubPlace>Londres</pubPlace>
+			<date>1664</date>
+	    	</publicationStmt>
+	    	<sourceDesc>
+    		</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+<text>
+	<body>
+	<opener>
+	<salute>Querida Hermana Ann</salute>,
+</opener>
+<p>No Puedo Aconsejarte que te Cases, a menos que las Almas, Mentes, y Apetitos de los <term ana="social">Hombres</term> fueran tan Visibles a tu Conocimiento como sus Personas a tus Ojos, pues aunque puede haber mucho <term ana="social">Engaño</term> incluso en las Formas Externas, o en los Aspectos, sin embargo no tanto, pero (si hay <term ana="social">Defectos</term>) habrá alguna <term ana="social">Apariencia</term>, pero  <span ana="social" type="cavendish">los <term ana="social">Defectos</term> de la Mente, el Alma, o los Apetitos, pueden ser tan Oscurecidos, como para no ser Percibidos hasta que hallas que eres Infeliz por ellos</span>; efectivamente hay tanto Peligro en Casarse, que me pregunto cómo cualquiera se atreve a Aventurarse, aunque hay menos Peligro para las <term ana="social">Mujeres</term> que para los <term ana="social">Hombres</term>, por la razon de que <span ana="social" type="cavendish">un <term ana="social">Hombre</term> puede recibir una Desgracia Fija para él mismo y para su Posteridad ambos, por el <term ana="social">Adulterio</term> de la <term ana="social">Esposa</term></span>, mientras que <span ana="social" type="cavendish">la <term ana="social">Esposa</term> no puede recibir <term ana="social">Deshonor</term> si es Honesta y Casta</span>, pero aunque no puede recibir <term ana="social">Deshonor</term> por el <term ana="social">Adulterio</term> de su <term ana="social">Esposo</term>, ella aun puede ser muy Infeliz por su Disposición Opuesta, Humores Irritables y Pasiones Revoltosas, de las cuales la Antipatía puede ser no sólo un Impedimento para la Paz de esta Vida, y la Tranquilidad de la Mente, sino que puede poner en Peligro la Gloria de la Vida Futura, pues <span ana="social" type="cavendish">el género de los <term ana="social">Hombres</term> tiene la tendencia, desde los Problemas de sus Mentes, de Maldecir la Fortuna, y Murmurar contra el Cielo, a menos que tengan una Paciencia Sobrenatural</span>; aparte, <span ana="social" type="cavendish">los <term ana="social">Hombres</term> tienen la mayor tendencia de encontrarse con <term ana="social">Vicios</term> en un Humor Descontento, y siempre están Vagando Afuera para distraer sus Inquietudes del <term ana="social">Hogar</term></span>, no que necesiten salir de las Puertas para Buscar el <term ana="social">Vicio</term>, pues <span ana="social" type="cavendish">el <term ana="social">Vicio</term> Habita en la mayoría de las <term ana="social">Casas</term> o <term ana="social">Familias</term></span>, sino que yendo dentro de muchas <term ana="social">Casas</term> o <term ana="social">Familias</term>, ellos pueden tomar Infección de cada una, pues <span ana="social" type="cavendish">el <term ana="social">vicio</term> es multiplicado muchas veces por <term ana="social">los conocidos</term> [Acquaintance]</span>; quiero decir <term ana="social">los conocidos</term> en general [General Acquaintance], no sociedades particulares; pero no digo esto Creyendo que tú puedes ser Infectada, estando Asegurada por el Antidoto de la <term ana="social"> Virtud</term>, el Espíritu de la <term ana="social">Gracia</term> y el Bálsamo del <term ana="social">Honor</term>, los cuales la Naturaleza, el Cielo y la <term ana="social">Educación</term> te dieron; pero aunque no puedes ser Infectada, <span ana="social" type="cavendish">si buscas Distracción con mucha Compañía, siendo del <term ana="social">Sexo Femenino</term>, podrías caer bajo sospecha</span>; Tampoco haré que pienses con este Discurso, que no Apruebo el <term ana="social">Matrimonio</term>, pues si así piensas, te Equivocas de mi, <span ana="social" type="cavendish">habiendo ninguna Vida que Aprube tanto como la <term ana="social">Vida de Casados</term>, donde tanta Simpatía Une Almas, y Afecto Corazones, como Ceremonia Une Manos</span>; pero vivir con Antipatía es necesariamente ser muy Infeliz, y si así eres, no hay manera de Ayudarse a sí mismo, pues <span ana="social" type="cavendish">si eres, una vez, Atada con la <term ana="social">Unión Matrimonial</term>, no puede haber <term ana="social">Divorcio</term> Honorable sino con la Muerte, pues todo otro <term ana="social">Divorcio</term> está Marcado con alguna Desgracia, o mayor o menor, y la Menor Desgracia es Demasiado</span>; por lo que, <span ana="social" type="cavendish">si tú te Casas, escoge un <term ana="social">Esposo</term> más bien de Oído que de Vista</span>, pues <span ana="social" type="cavendish">el Mundo rara vez da un Elogio Inmerecido, pero con frecuencia Detrae del Merecedor, pues rara vez le da al Merito lo Suyo</span>; Sin embargo, <span ana="social" type="cavendish">el Camino más Seguro es vivir una <term ana="social">Vida de Soltera</term></span>, pues <span ana="social" type="cavendish">todas las <term ana="social">Esposas</term>, si no son Esclavas, son <term ana="social">Sirvientas</term></span>, aunque <span ana="social" type="cavendish">ser <term ana="social">Sirvienta</term> de un esposo digno, es Placer y <term ana="social">Honor</term> ambos</span>, pues el verdadero Afecto obtiene más Placer de Servir que de ser Servido, y es un <term ana="social">Honor</term> Obedecer al Meritorio <span ana="social" type="cavendish">pero ahí donde hay Peligro en la Decisión, y Seguridad en no Escoger, lo Mejor es ser Señora de sí misma, lo cual en una <term ana="social">Vida de Soltera</term> lo eres</span>. Pero ya sea Casada o no Casada, mis Deseos y Resos son, que seas tan Feliz como este Mundo puede hacerte, y entonces yo la compartiré contigo, siendo</p>
+<signed>Tu muy amorosa hermana.</signed>
+</body>
+</text>
+</TEI>
