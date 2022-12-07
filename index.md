@@ -18,6 +18,7 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 7. ["Carta CCI";](https://github.com/alwaUNAM/corpus-cavendish/blob/3f932e4981974b3bdf980aade28ba777157aa08b/Carta%20201,%20Cartas%20sociables.md) de Cartas Sociales
 
 <details><summary>Prefacio al lector</summary>
+   
 ```xml
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
