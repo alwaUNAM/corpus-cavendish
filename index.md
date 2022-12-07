@@ -264,7 +264,7 @@ Con este modesto *corpus* esperamos que el lector puedas darse una idea de Marga
 
 ## Carta CCI de *Cartas Sociales*
 
-
+~~~~~
 <?xml version="1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
 	xmlns:rng="http://relaxng.org/ns/structure/1.0"
