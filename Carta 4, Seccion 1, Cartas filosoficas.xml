@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+	xmlns:rng="http://relaxng.org/ns/structure/1.0"
+	xml:lang="es"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="validation/document.xsd">
+<teiHeader>
+    <fileDesc>
+	 	<titleStmt>
+	  		<title>Cartas filosóficas: Sección 1, Carta 4</title>
+			<author>Margaret Cavendish</author>
+			<translator>Allen Wagley</translator>
+	   	</titleStmt>
+	   	<publicationStmt>
+	    		<publisher>Oxford Academic</publisher>
+			<pubPlace>Nueva York</pubPlace>
+			<date>2019</date>
+	    	</publicationStmt>
+	    	<sourceDesc>
+    		</sourceDesc>
+	</fileDesc>
+</teiHeader>
+
+
+<body>
+	<text>
+		<p>He escogido, en primer lugar, la Obra de ese famoso Filósofo <persName>Hobbes</persName>, llamada Leviatán, en donde encuentro que dice, Que <span ana="filosofica" type="hobbes">la causa del <term ana="filosofica">sentido</term> o <term ana="filosofias">percepción</term> sensible es el <term ana="filosofica">cuerpo</term> u <term ana="filosofica">Objeto externo</term>, el cual presiona el <term ana="filosofica">Órgano</term> propio de cada <term ana="filosofica">sensación</term></span>. A lo que respondo, de acuerdo con las bases de mis propias Opiniones Filosóficas, Que <span ana="filosofica" type="cavendish">todas las cosas, y, por lo tanto, <term ana="filosofica">objetos exteriores</term> como también <term ana="filosofica">órganos sensibles</term>, tienen <term ana="filosofica">Sentido</term> y <term ana="filosofica">Razón</term> ambos</span>, aunque ni los <term ana="filosofica">objetos</term> ni los <term ana="filosofica">órganos</term> son la causa de ellos; pues <span ana="filosofica" type="cavendish">La <term ana="filosofica">Percepción</term> no es más que el <term ana="filosofica">efecto</term> de los <term ana="filosofica">Movimientos Sensitivos y racionales</term></span>, y no los <term ana="filosofica">Movimientos de la Percepción</term>. Tampoco la presión de <term ana="filosofica">partes</term> sobre <term ana="filosofica">partes</term> hacen la <term ana="filosofica">Percepción</term>; pues aunque la <term ana="filosofica">Materia</term> con el poder de movimiento propio es tan componible como divisible, y partes se juntan con <term ana="filosofica">partes</term>, aun eso no hace la <term ana="filosofica">percepción</term>; no, <span ana="filosofica" type="cavendish">las varias partes, entre las que se hace la <term ana="filosofica">Percepción</term>, pueden estar a tal distancia, que no sean capaces de presionar</span>. Como por ejemplo, Dos hombres pueden ver o escucharse el uno al otro a distancia, y, sin embargo, puede haber otros <term ana="filosofica">cuerpos</term> entre ellos, que no se mueven junto con esas <term ana="filosofica">percepciones</term>, así que no se puede hacer <term ana="filosofica">presión</term>, pues toda presión es por algún constreñimiento y <term ana="filosofica">fuerza</term>. Por ello que, de acuerdo a mi Opinión, <span ana="filosofica" type="cavendish">los <term ana="filosofica">movimientos Sensibles y Racionales</term> libres, sí modelan cada <term ana="filosofica">objeto</term> del otro, como la Figura y la Voz en el Ojo y Oído del otro</span>. Pues <span ana="filosofica" type="cavendish">la Vida y el Conocimiento, los cuales nombro <term ana="filosofica">Materia Racional y Sensible</term>, están en toda Criatura, y en todas las partes de cada Criatura, y hacen todas las <term ana="filosofica">percepciones</term> en la <term ana="filosofica">Naturaleza</term>, porque son las <term ana="filosofica">partes</term> auto-movibles de la <term ana="filosofica">Naturaleza</term>, y conforme se mueven esos <term ana="filosofica">Movimientos</term> Corpóreos, Racionales y Sensibles, se hacen tales y tales <term ana="filosofica">percepciones</term></span>.</p>
+</text>
+</body>
+</TEI>
